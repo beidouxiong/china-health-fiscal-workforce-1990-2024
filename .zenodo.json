@@ -1,0 +1,28 @@
+{
+  "creators": [
+    {
+      "name": "Xiong, Beidou",
+      "orcid": "0009-0004-7950-8567"
+    },
+    {
+      "name": "Zhang, Lizhe",
+      "orcid": "0009-0008-7601-638X"
+    }
+  ],
+  "title": "Replication Data and Code for Convergence Without Equalization: Fiscal-Workforce Decoupling in China's Health System, 1990-2024",
+  "description": "Harmonized province-level panel data, data dictionary, quality report, and analysis code for studying fiscal-health expenditure and health-workforce inequality in China, 1990-2024.",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "health resources",
+    "health workforce",
+    "fiscal health expenditure",
+    "inequality",
+    "convergence",
+    "China",
+    "panel data"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "language": "eng"
+}
